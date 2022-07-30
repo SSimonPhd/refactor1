@@ -10,7 +10,7 @@ body {
     background-color: #d9dcd6;
 }
 
-/* Moved a and p from Class to Element Selectors*/
+/* Moved a and p from Class to Element Selectors */
 a {
     color: #ffffff;
     text-decoration: none;
@@ -63,7 +63,7 @@ p {
     background-position: center;
 }
 
-/*Reordered following to semantic structure*/
+/* Reordered following to semantic structure */
 .content {
     width: 75%;
     display: inline-block;

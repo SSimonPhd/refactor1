@@ -8,6 +8,10 @@ Refactored starter code with the following:
 2. Organized CSS
 3. Commented CSS
 
+* Screenshot
+
+![image](https://user-images.githubusercontent.com/60651145/182003176-e272ddf7-706f-4b40-9130-bbef14dd090e.png)
+
 
 * URL to deployed application:
 

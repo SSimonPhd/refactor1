@@ -6,7 +6,7 @@ Refactored starter code with the following:
 
 1. Fixed links
 2. Organized CSS
-3. Added CSS comments
+3. Commented CSS
 
 
 * URL to deployed application:

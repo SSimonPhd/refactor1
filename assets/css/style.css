@@ -5,18 +5,17 @@
     margin: 0;
 }
 
-/* Type Selectors */
+/* Element Selectors */
 body {
     background-color: #d9dcd6;
 }
 
-/* Moved a from Class to Type Selectors section*/
+/* Moved a and p from Class to Element Selectors section*/
 a {
     color: #ffffff;
     text-decoration: none;
 }
 
-/* Moved p from Class to Type Selectors section*/
 p {
     font-size: 16px;
 }
@@ -64,14 +63,13 @@ p {
     background-position: center;
 }
 
-/*Moved .content to follow html structure*/
+/*Reordered following to semantic structure*/
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
-/*Reordered the following to html structure*/
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;

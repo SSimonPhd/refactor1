@@ -10,7 +10,7 @@ body {
     background-color: #d9dcd6;
 }
 
-/* Moved a and p from Class to Element Selectors section*/
+/* Moved a and p from Class to Element Selectors*/
 a {
     color: #ffffff;
     text-decoration: none;

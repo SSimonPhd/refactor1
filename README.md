@@ -4,9 +4,9 @@ Module 1 challenge assignment:
 
 Refactored starter code with the following:
 
-1. Working links
-2. CSS semantically consolidated and organized
-3. CSS properly commented
+1. Fixed links
+2. Semantically consolidated and organized CSS
+3. Added CSS comments
 
 
 * URL to deployed application:

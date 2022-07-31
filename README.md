@@ -5,6 +5,7 @@ Module 1 challenge assignment:
 Refactored starter code with the following:
 
 1. Fixed links
+2. Added alt tags
 2. Organized CSS
 3. Commented CSS
 

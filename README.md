@@ -8,7 +8,7 @@ Refactored starter code with the following:
 2. Renamed div page elements
 3. Added alt tags to images
 4. Organized CSS to follow semantic structure
-5. Commented CSS to indicate where changes were made
+5. Commented CSS to indicate changes made
 
 - Screenshot
 

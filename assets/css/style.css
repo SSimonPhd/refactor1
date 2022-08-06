@@ -10,7 +10,7 @@ body {
     background-color: #d9dcd6;
 }
 
-/* Moved a and p from Class to Element Selectors */
+/* Moved a, h2, and p from Class to Element Selectors */
 a {
     color: #ffffff;
     text-decoration: none;
@@ -38,7 +38,7 @@ p {
     font-size: 48px;
 }
 
-/* Updated seo color to highlight it */
+/* Updated seo color for contrast */
 .header h1 .seo {
     color: #e46872;
 }

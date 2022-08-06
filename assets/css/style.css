@@ -111,7 +111,6 @@ p {
 }
 
 /* Cosolidated benefit class from 3 classes with same formatting to one benefit class and changed h3 to h2 for correct sequential order*/
-
 .benefit {
     margin-bottom: 32px;
     color: #ffffff;
@@ -136,7 +135,6 @@ p {
 }
 
 /*Updated footer h2 to h3 for correct sequential order*/
-
 .footer h3 {
     font-size: 20px;
 }

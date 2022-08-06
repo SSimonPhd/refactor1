@@ -16,6 +16,11 @@ a {
     text-decoration: none;
 }
 
+h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
 p {
     font-size: 16px;
 }
@@ -33,8 +38,9 @@ p {
     font-size: 48px;
 }
 
+/* Updated seo color to highlight it */
 .header h1 .seo {
-    color: #d9dcd6;
+    color: #e46872;
 }
 
 .header div {
@@ -63,14 +69,14 @@ p {
     background-position: center;
 }
 
-/* Reordered following to semantic structure */
+/* Reordered to follow semantic structure. Consolidated content header formatting from 3 classes to 1. Moved h2 to elements section*/
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
-.search-engine-optimization {
+.content-header {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -79,7 +85,7 @@ p {
     color: #ffffff;
 }
 
-.search-engine-optimization img {
+.content-header img {
     max-height: 200px;
 }
 
@@ -88,50 +94,9 @@ p {
     margin-right: 25px;
 }
 
-.search-engine-optimization h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.online-reputation-management {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-.online-reputation-management img {
-    max-height: 200px;
-}
-
 .float-right {
     float: right;
     margin-left: 25px;
-}
-
-.online-reputation-management h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.social-media-marketing {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-.social-media-marketing img {
-    max-height: 200px;
-}
-
-.social-media-marketing h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
 }
 
 .benefits {
@@ -145,50 +110,19 @@ p {
     background-color: #2589bd;
 }
 
-.benefit-lead {
+/* Cosolidated benefit class from 3 classes with same formatting to one benefit class and changed h3 to h2 for correct sequential order*/
+
+.benefit {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
-.benefit-lead h3 {
+.benefit h2 {
     margin-bottom: 10px;
     text-align: center;
 }
 
-.benefit-lead img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-.benefit-brand {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.benefit-brand h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-
-.benefit-brand img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-.benefit-cost {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.benefit-cost h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-.benefit-cost img {
+.benefit img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
@@ -201,6 +135,8 @@ p {
     text-align: center;
 }
 
-.footer h2 {
+/*Updated h2 to h3 for correct sequential order*/
+
+.footer h3 {
     font-size: 20px;
 }

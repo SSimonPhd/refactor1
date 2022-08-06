@@ -7,7 +7,7 @@ Refactored starter code with the following:
 1. Fixed nav links
 2. Renamed div page elements
 3. Added alt tags to images
-4. Consolidated and reordered CSS to follow semantic structure
+4. Refactored CSS to follow semantic structure
 5. Commented HTML & CSS to indicate changes made
 
 - Screenshot

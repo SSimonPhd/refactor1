@@ -8,7 +8,8 @@ Refactored starter code with the following:
 2. Renamed div page elements
 3. Added alt tags to images
 4. Refactored CSS to follow semantic structure
-5. Commented HTML & CSS to indicate changes made
+5. Consolidated content headers and benefit classes
+6. Commented HTML & CSS to indicate changes made
 
 - Screenshot
 

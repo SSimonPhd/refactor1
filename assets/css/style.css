@@ -94,7 +94,6 @@ p {
     font-size: 36px;
 }
 
-
 .float-left {
     float: left;
     margin-right: 25px;
@@ -116,7 +115,7 @@ p {
     background-color: #2589bd;
 }
 
-/* Cosolidated benefit class from 3 classes with same formatting to one benefit class and changed h3 to h2 for correct sequential order */
+/* Cosolidated benefit class from 3 classes with same formatting to one benefit class and changed h2 to h3 for correct sequential order */
 .benefit {
     margin-bottom: 32px;
     color: #ffffff;

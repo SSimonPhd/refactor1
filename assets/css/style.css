@@ -70,24 +70,11 @@ p {
     background-position: center;
 }
 
-/* Reordered to content class to follow semantic structure. Consolidated content header formatting from 3 classes to 1. Moved h2 to elements section*/
+/* Moved h2 to elements section*/
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
-}
-
-.content-header {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-.content-header img {
-    max-height: 200px;
 }
 
 .float-left {
@@ -128,8 +115,7 @@ p {
     max-width: 150px;
 }
 
-/* Refactored nav ids to fix anchors and consolidated classes */
-
+/* Added id anchors and consolidated section classes */
 .search-engine-optimization, .online-reputation-management, .social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
@@ -139,12 +125,12 @@ p {
     color: #ffffff;
 }
 
-/*consolidated content img classes*/
+/*consolidated img classes*/
 .search-engine-optimization img, .online-reputation-management img, .social-media-marketing img {
     max-height: 200px;
 }
 
-/*consolidated content h2 classes*/
+/*consolidated h2 classes*/
 .search-engine-optimization h2, .online-reputation-management h2, .social-media-marketing h2 {
     margin-bottom: 20px;
     font-size: 36px;

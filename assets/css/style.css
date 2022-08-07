@@ -10,16 +10,6 @@ body {
     background-color: #d9dcd6;
 }
 
-/* Moved a, p from Class to Element selectors */
-a {
-    color: #ffffff;
-    text-decoration: none;
-}
-
-img {
-    max-height: 200px;
-}
-
 h1 {
     display: inline-block;
     font-size: 48px;
@@ -32,17 +22,28 @@ h2 {
 
 
 h3 {
-    font-size: 18.5px;
     margin-bottom: 10px;
     text-align: center;
+    font-size: 18.5px;
 }
 
 h4 {
     font-size: 20px;
 }
 
+/* Moved p from Class to Element selectors */
 p {
     font-size: 16px;
+}
+
+/* Moved a from Class to Element selectors */
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+img {
+    max-height: 200px;
 }
 
 /* Class Selectors */
@@ -127,6 +128,12 @@ p {
     margin-bottom: 32px;
     color: #ffffff;
 }
+
+.benefit-lead img, .benefit-brand img, .benefit-cost img {
+    display: block;
+    margin: 10px auto;
+    max-width: 150px;
+} 
 
 .footer {
     padding: 30px;

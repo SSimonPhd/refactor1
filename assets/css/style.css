@@ -10,6 +10,13 @@ body {
     background-color: #d9dcd6;
 }
 
+
+/* Moved a from Class to Element selectors */
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
 /* Added h1, h2, h3, h4 elements to consolidate code */
 h1 {
     display: inline-block;
@@ -34,12 +41,6 @@ h4 {
 /* Moved p from Class to Element selectors */
 p {
     font-size: 16px;
-}
-
-/* Moved a from Class to Element selectors */
-a {
-    color: #ffffff;
-    text-decoration: none;
 }
 
 /* Added img to elements to consolidate code */

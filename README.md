@@ -1,6 +1,4 @@
-# 01 HTML, CSS, and Git: Code Refactor
-
-Module 1 challenge assignment:
+# HTML, CSS, and Git: Code Refactor
 
 Refactored starter code with the following:
 
